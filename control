@@ -4,6 +4,7 @@ Depends: mobilesubstrate
 Version: 1.0.0
 Architecture: iphoneos-arm
 Description: Hide Instagram's explore features and automatically begin searching for users instead.
-Maintainer: Rocco Del Priore
-Author: Rocco Del Priore
+Icon: file:///var/mobile/Application Support/Instasearch/InstasearchAppIcon.png
+Maintainer: Rocco Del Priore <frostbitee08@gmail.com>
+Author: Rocco Del Priore <frostbitee08@gmail.com>
 Section: Tweaks
